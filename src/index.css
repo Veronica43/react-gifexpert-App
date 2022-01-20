@@ -1,18 +1,18 @@
 * {
   font-family: Helvetica, Arial, sans-serif;
-  color: white;
+  color: red;
 }
 
 body {
   padding: 60px;
-  background-color: #730a7a;
+  background-color: black;
 }
 
 .titleApp {
   margin-left: 40px;
   margin-bottom: 50px;
   width: 30%;
-  color: white;
+  color: red;
 }
 
 input {
